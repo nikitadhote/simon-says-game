@@ -14,4 +14,4 @@ A memory game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-https://nikitadhote.github.io/simon-says-game/
+[Play Simon Says Game](https://nikitadhote.github.io/simon-says-game/)
